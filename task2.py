@@ -20,7 +20,7 @@ That name is on the list
 
 name = input("Enter a name: ")
 
-nameList = ("Lebron", "Kobe", "Michael", "Shaq", "Dennis")
+nameList = ("Lebron", "Kobe", "Michale", "Shaq", "Dennis")
 
 for i in nameList:
     if name == i:
