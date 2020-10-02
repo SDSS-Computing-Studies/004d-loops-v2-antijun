@@ -25,6 +25,5 @@ nameList = ("Lebron", "Kobe", "Michale", "Shaq", "Dennis")
 for i in nameList:
     if name == i:
         print("That name is on the list")
-
 if name not in nameList:
     print("That name is not on the list")
